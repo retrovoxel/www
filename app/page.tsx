@@ -18,7 +18,7 @@ export default function Home() {
               moe-cli
             </a>
             <p className="text-sm md:text-base text-stone-400 font-normal ">
-              command line tool to search, download and real manga
+              command line tool to search, download and read manga
             </p>
           </li>
           <li>
@@ -29,7 +29,7 @@ export default function Home() {
               wisepay
             </a>
             <p className=" text-sm md:text-base text-stone-400 font-normal ">
-              finance manager crud api with jwt token authentication
+              rest api for an expense manager with jwt authentication and crud operations
             </p>
           </li>
           <li>
@@ -40,7 +40,7 @@ export default function Home() {
               colabcoder
             </a>
             <p className="text-sm md:text-base text-stone-400 font-normal ">
-              write and execute code together with friends in real time
+              write code together with friends in real time
             </p>
           </li>
         </ul>
